@@ -2,10 +2,12 @@
 
 As a team member, I want to follow our principles:
 
+1. Everyone is part of Continuous Learning Journey
 1. Everything is code and must be versioned
 1. No sensitive data in code repositories
-1. Standardize programming languages and developer experience (apps, infra, sec, qa and etc)
+1. Standardize developer experience (DevEx) for all teams(apps, infra, sec, qa and etc)
 1. Extensible Architecture
+    - prioritized by Business Value-Based Impact
     - start from what is necessary but keep it extensible
     - reusable components with single responsibility
     - observability (logging/metrics)

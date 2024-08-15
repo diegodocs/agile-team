@@ -14,7 +14,7 @@ This is a community project that aims to help agile teams organize information a
 
 ## How ?
 
-## Ideation & Envisioning  
+## Ideation / Envisioning  
 
 - Ceremonies:
   - [Agenda and Notes](./ceremonies/envisioning/readme.md)
@@ -25,7 +25,7 @@ This is a community project that aims to help agile teams organize information a
 - Identifying the Need:
   - [Business/Functional and Non-Functional Requirements](./requirements/readme.md)
 
-## Architecture Design sessions
+## Architecture Design Sessions
 
 - Ceremonies:
   - [Agenda and Notes](/ceremonies/ads/README.md)
@@ -37,14 +37,15 @@ This is a community project that aims to help agile teams organize information a
 - Making and Communicating all Decisions:
   - [Architecture Decisions Records (ADR)](./decisions/readme.md)
 
+- Solution value proposition
+
 ## Sprint phase
 
-- Implementing and Reviewing Lessons Learned
-  - Backlog Refinement / Prioritization
-  - Sprints:
-    - Tasks/Development
-    - Demo/Review
-    - Retrospective
+- Backlog Refinement / Prioritization
+- Sprints:
+  - Tasks/Development
+  - Demo/Review
+  - Retrospective
 
 ## Documents
 
