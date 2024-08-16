@@ -31,7 +31,7 @@ This is a community project that aims to help agile teams organize information a
   - [Agenda and Notes](/ceremonies/ads/README.md)
 
 - Exploring and Evaluating Options:
-  - [Key Principles for Architectural Decisions](./principles/readme.md)
+  - [Key Principles](./principles/readme.md)
   - [Spikes and Evaluations](./spikes/readme.md)
 
 - Making and Communicating all Decisions:
